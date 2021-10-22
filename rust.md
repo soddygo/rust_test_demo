@@ -21,7 +21,7 @@ Rust
 
 [ Get Started ](/learn/get-started)
 
-[Version 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
+[Version 1.56.0](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
 
  Why Rust?
 ----------
